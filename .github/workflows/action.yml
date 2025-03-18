@@ -1,4 +1,4 @@
-name: Run Python Script Every 1 Hours
+name: Run '春燕' Every 1 Hours
 
 on:
   schedule:
